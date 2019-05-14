@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: time-blender
+Version: 0.1.2
+Summary: A compositional time series generator.
+Home-page: https://github.com/paulosalem/time-blender
+Author: Paulo Salem
+Author-email: paulosalem@paulosalem.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: clize
+Requires-Dist: pymc3
+Requires-Dist: sigtools
+Requires-Dist: matplotlib
+
+UNKNOWN
+
+

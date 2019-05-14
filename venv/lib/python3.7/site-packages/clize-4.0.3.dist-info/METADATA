@@ -1,0 +1,39 @@
+Metadata-Version: 2.0
+Name: clize
+Version: 4.0.3
+Summary: Turn functions into command-line interfaces
+Home-page: https://github.com/epsy/clize
+Author: Yann Kaiser
+Author-email: kaiser.yann@gmail.com
+License: MIT
+Keywords: CLI,options,arguments,getopts,getopt,argparse,introspection,flags,decorator,subcommands
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: User Interfaces
+Requires-Dist: attrs (>=17.4.0)
+Requires-Dist: docutils
+Requires-Dist: od
+Requires-Dist: sigtools (>=2.0)
+Requires-Dist: six
+Provides-Extra: datetime
+Requires-Dist: python-dateutil; extra == 'datetime'
+
+UNKNOWN
+
+
